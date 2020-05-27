@@ -1,8 +1,8 @@
 package sub1;
 /*
- * ï¿½ê¶‡ï§ï¿½ : 2020/04/29
- * ï¿½ì” ç”±ï¿½ : ï¿½ì” ï¿½ê¹­ï¿½ì•
- * ï¿½ê¶¡ï¿½ìŠœ : ï¿½ì˜„è«›ï¿½ HelloWorld ç•°ì’•ì °ï¿½ë¸¯æ¹²ï¿½
+ * ³¯Â¥ : 2020/04/29
+ * ÀÌ¸§ : ÀÌÅÂÈÆ
+ * ³»¿ë : ÀÚ¹Ù HelloWorld Ãâ·ÂÇÏ±â
  */
 public class HelloWorld {
 	public static void main(String[] args) {
