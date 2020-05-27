@@ -1,0 +1,21 @@
+package test07;
+/*
+ * 날짜 : 2020/05/13
+ * 이름 : 이태훈
+ * 내용 : 클래스 상속문제
+ */
+public class JavaTest7 {
+	public static void main(String[] args) {
+		
+		Customer kim = new Customer(1001, "김춘추");
+		VipCustomer lee = new VipCustomer(1001, "이순신");
+		
+		System.out.println("김춘추 님이 지불할 금액 : "+kim.calcPrice(10000));
+		System.out.println("이순신 님이 지불할 금액 : "+lee.calcPrice(10000));
+		
+		kim.showInfo();
+		lee.showInfo();
+		
+	}//main end
+
+}
